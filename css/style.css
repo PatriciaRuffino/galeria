@@ -41,11 +41,11 @@ p{
     background-size:cover;
 }
 .card-1 .card-imagem{
-    background-image: url("/img/Captura\ de\ Tela\ 2022-06-29\ às\ 11.51.43.png");  
+    background-image: url("/img/dog.png");  
     border-radius: 10px 10px 0 0;
 }
 .card-2 .card-imagem{
-    background-image: url("/img/Captura\ de\ Tela\ 2022-06-29\ às\ 11.52.03.png");  
+    background-image: url("/img/golfinho.png");  
     border-radius: 10px 10px 0 0;
 }
 .card-3 .card-imagem{
@@ -53,7 +53,7 @@ p{
     border-radius: 10px 10px 0 0;
 }
 .card-4 .card-imagem{
-    background-image: url("/img/Captura\ de\ Tela\ 2022-06-29\ às\ 11.50.07.png");  
+    background-image: url("/img/raposa.png");  
     border-radius: 10px 10px 0 0;
 }
 .card-5 .card-imagem{
