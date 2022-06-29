@@ -41,15 +41,18 @@ p{
     background-size:cover;
 }
 .card-1 .card-imagem{
-    background-image: url("/img/dog.png");  
+    background-image: url("/img/dog.png"); 
+    background-position: center; 
     border-radius: 10px 10px 0 0;
 }
 .card-2 .card-imagem{
     background-image: url("/img/golfinho.png");  
+    background-position: center; 
     border-radius: 10px 10px 0 0;
 }
 .card-3 .card-imagem{
-    background-image: url("/img/victoria-duarte-weS_JaawbYM-unsplash.jpg");  
+    background-image: url("/img/victoria-duarte-weS_JaawbYM-unsplash.jpg"); 
+    background-position: center;  
     border-radius: 10px 10px 0 0;
 }
 .card-4 .card-imagem{
@@ -57,7 +60,8 @@ p{
     border-radius: 10px 10px 0 0;
 }
 .card-5 .card-imagem{
-    background-image: url("/img/cat-g3661bcdde_640.jpg");  
+    background-image: url("/img/cat-g3661bcdde_640.jpg");
+    background-position:center;   
     border-radius: 10px 10px 0 0;
 }
 .btn{
